@@ -57,8 +57,7 @@ a {
 
 .site-search input {
     border: 0;
-    float: left;
-
+    float: left; 
 }
 
 .site-search button {
